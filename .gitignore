@@ -1,0 +1,17 @@
+# Maven build folder
+target/
+
+# IntelliJ project files
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Database / config secrets
+application.properties
+application.yml
+.env
